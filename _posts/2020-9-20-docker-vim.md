@@ -1,3 +1,8 @@
+---
+layout: post
+title: docker-vim
+---
+
 Wouldn't it be nice to have your development environment up and running in a few simple commands? Well that is what I have attemted to create with [docker-vim][docker-vim]. Every developer has their favorite setup customized for themselves. But this customization makes it so that you cant just sit down at a new computer or vm and start hacking away.
 
 The idea here is a developer could create a docker container with all of their customizations and simply run the container on virtually any environment that has docker installed. That means that a developer would have to invest time upfront to set up the container, but could save time in the future.
@@ -75,6 +80,6 @@ When everything was running as root everything installed to /root correctly. Whe
 ## Future
 Try to make it use a gui:
 
-[http://wiki.ros.org/docker/Tutorials/GUI](http://wiki.ros.org/docker/Tutorials/GUI)
+<http://wiki.ros.org/docker/Tutorials/GUI>
 
 [docker-vim]: https://github.com/zackeryf/docker-vim
