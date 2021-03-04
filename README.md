@@ -1,1 +1,1 @@
-Just an attempt to make a block using jekyll.
+Just an attempt to make a blog using jekyll.
